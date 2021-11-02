@@ -1,0 +1,13 @@
+# logger_name
+# logger_level
+# logger_file
+
+logger:
+    name: NN_logger
+    level: DEBUG
+    file: pp_loger.txt
+
+
+
+
+
